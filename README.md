@@ -10,6 +10,8 @@ Utiliser le package manager [npm](https://www.npmjs.com/) pour l'installer.
 npm install
 ```
 
+Puis : 
+
 ```typescript
 npm start
 ```
